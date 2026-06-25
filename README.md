@@ -64,12 +64,6 @@ vishal = {
 ![ELT](https://img.shields.io/badge/ELT%2FCDC-00897B?style=for-the-badge&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=for-the-badge&logoColor=white)
 
-**AI & Tooling**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI_v2%2Fv3-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ---
 
